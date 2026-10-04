@@ -5,7 +5,17 @@ on:
     branches: [main, master]
   pull_request:
 
-jobs:      
+jobs:
+  test-ruby-port:
+    name: Ruby port regression tests
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+      - run: ./ruby-port/test.sh
+
   test:
     name: Tests + parity suite
     # Parity CI is pinned to one platform/toolchain pair (plan.md §5.20):

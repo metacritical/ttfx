@@ -1,0 +1,227 @@
+{
+  "wipe": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 138,
+    "sha256": "3ca11d63c1b577b142dcf57b166fd9e21f3b953ed116c639343dcf3d44320ec4"
+  },
+  "decrypt": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 545,
+    "sha256": "4a352a49cfff85fa17f5e0dd02b58f693baeeba61c4ef844bc6e969b0e42161e"
+  },
+  "beams": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 86,
+    "sha256": "320d05f5572c2814909422b1b84a19ff148be27f5605ab3189d6c51e852f40a0"
+  },
+  "waves": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 481,
+    "sha256": "97806f9c23d255a598399df7cce17f86193a0256e022f730d134b3ea8e8a64b8"
+  },
+  "matrix": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 944,
+    "sha256": "d8c2264ebeb904a8ae83ff7de00c86dbe3e323adefe54ac223c4138f8fbc2f29"
+  },
+  "rain": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 24,
+    "sha256": "e842e9c089ed80b20146343e81f9be5a9071b91904259023753dedd78c8b3610"
+  },
+  "highlight": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 129,
+    "sha256": "6f9446fcef0921ade0b0fcf737e5edc4b99a2d1719e76e3d9d887c01e8a8a9de"
+  },
+  "randomsequence": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 65,
+    "sha256": "0f0b2eabb580608ae4aec0289061c75085710646c47f71ae542bed80d8451f5e"
+  },
+  "scattered": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 27,
+    "sha256": "cda86e08ea9719a09fe007eae38d151f5324a7f092a06a05a9b5c31077496b5f"
+  },
+  "expand": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 3,
+    "sha256": "f50d19c2353adcfb10e3f835ca3645148325d41418b5347c6edd3ffd05f5f6dd"
+  },
+  "spray": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 161,
+    "sha256": "5d0e273f5efdbe97fd090b7a0869b73fc5fa845e07e2e74511d6dac1e603218c"
+  },
+  "bouncyballs": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 66,
+    "sha256": "f33cbd6645f8af7bf122f9e092da4380deed46021b6d7f5c04ef12a67b99763b"
+  },
+  "middleout": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 68,
+    "sha256": "5183d34bfd0c4c399cfc0395ec38b59fae365444f5b542871597a2549fd9217f"
+  },
+  "smoke": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 128,
+    "sha256": "9eda1f6e79bcb0b3f87abd4d04938aa3fef38f4b16fb9b2558363b6e3a28182c"
+  },
+  "slice": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 8,
+    "sha256": "978e29a771a94791ff055eb6d73783e9ef2031ae87c4142b414cf83361f121c0"
+  },
+  "overflow": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 5,
+    "sha256": "60aa92fd2deba34db4b19aa9eb716aacddf640e5f3388669d6c3fe08bd650e3c"
+  },
+  "pour": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 78,
+    "sha256": "70142a599916d533dbfd9cdbadbd1555c335988c982e35cc3924125d06117842"
+  },
+  "slide": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 69,
+    "sha256": "ea61b36cc4dae11ac29ab12a382f5b246cf6e0ed1771dc2669719a4c99d07b14"
+  },
+  "spotlights": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 554,
+    "sha256": "c7d23516b7462be49fc445caf26b671488d5e26d5d885345b5680330fdf93db2"
+  },
+  "burn": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 264,
+    "sha256": "8191a0061821b384ce14d1ebcebf3e9083482872fdc0c9edcd998dbc17f671b5"
+  },
+  "print": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 18,
+    "sha256": "c501a7730faa159705a9d80d028e0701c1475cdd5f440153c3af16280bc3afcb"
+  },
+  "fireworks": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 210,
+    "sha256": "d0bde0fce9afd6f9caff26bf86904d05704d1c28ebcce4bb9dcc8d089f71c056"
+  },
+  "orbittingvolley": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 2,
+    "sha256": "249187d15003a7ce8d05d438fef62af3e8a06bad15eaccbd1edca945467d8c09"
+  },
+  "colorshift": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 528,
+    "sha256": "d2893fdf6ba07ac93b54996fb5395d7b5f8eaf3dd63966f4e71dbf673e32b1dc"
+  },
+  "binarypath": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 65,
+    "sha256": "321f3f5e0fea96d814738e0c0a40c6312a578c8608cc91f9d0ab2e5349e05f3c"
+  },
+  "errorcorrect": {
+    "input": "hi there",
+    "seed": 42,
+    "frames": 155,
+    "sha256": "6695a37f1bf7d6fbfe0d724825ffdc6531db22f32e252c0d8a088c9e4cdf97f8",
+    "options": {
+      "error_pairs": 0.5
+    }
+  },
+  "rings": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 1310,
+    "sha256": "c9b64ef69426e5988e98d42b48b92a9225f129a5d9c97587bb1fa9a2e8142def"
+  },
+  "sweep": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 220,
+    "sha256": "e011f5501ec131d4ae42232d759ed224741ca4c86e103a6614bbd71f35545e1c"
+  },
+  "swarm": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 221,
+    "sha256": "24811e394ca78034a2f3c35fd0b91053cb5fdb448d8ecead9988dcb70955f4db"
+  },
+  "crumble": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 137,
+    "sha256": "11fa7e646c482232b4cbfcc6b91c04965c6f17066bb28110441c33582824f83a"
+  },
+  "unstable": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 220,
+    "sha256": "7842d17504e657dd427ad35ab71d11d715d8b05dcba696cc942d2196a97eb206"
+  },
+  "laseretch": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 142,
+    "sha256": "712f6f1010d61cdacc1568941185bbb4b26f22a571669841ba9f1f5ed519f9ed"
+  },
+  "bubbles": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 131,
+    "sha256": "e98e5181fa354f6faff7c5afbdf6c173cadefb85338f824e4f85147772bd1d5b"
+  },
+  "synthgrid": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 62,
+    "sha256": "33d65aea5007ada9270ec4bf22cca2bc258da7fc3af27ff3740106be86cd392d"
+  },
+  "blackhole": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 490,
+    "sha256": "35f232bea582ff78ccbec3e58e2294084a0d2a8ee5a635a07250f917b07dbeef"
+  },
+  "vhstape": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 674,
+    "sha256": "69b5ce27a01b6e64581af5396623d4c16953ba1122f32d340622b8ce3524e90b"
+  },
+  "thunderstorm": {
+    "input": "hi",
+    "seed": 42,
+    "frames": 911,
+    "sha256": "2bc6442c746d1e88d5a981afaedf54f04b9a5d3ef654d4f9f322559bd445e3da"
+  }
+}
